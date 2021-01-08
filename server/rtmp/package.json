@@ -1,0 +1,16 @@
+{
+  "name": "rct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flv.js": "^1.5.0",
+    "node-media-server": "^2.2.4"
+  }
+}
